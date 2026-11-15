@@ -9,7 +9,7 @@ body {
 h1 {
     text-align: center;
     color: #4285db;
-    font-size: 24px;
+    font-size: 27px;
 }
 
 p {
@@ -25,7 +25,7 @@ form {
 }
 
 fieldset {
-    padding: 15px;
+    padding: 10px;
     border: 1px solid lightgray;
     border-radius: 10px;
 }
@@ -37,7 +37,6 @@ legend {
 
 
 textarea {
-    width: 95%;
     padding: 8px;
     border: 1px solid lightgray;
     border-radius: 8px;
