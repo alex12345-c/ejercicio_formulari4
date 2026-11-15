@@ -4,7 +4,6 @@ body {
     font-size: 14px;
     color: black;
     background-color: lightgray;
-    margin: 30px;
 }
 
 h1 {
@@ -28,7 +27,6 @@ form {
 }
 
 fieldset {
-    margin: 10px;
     padding: 15px;
     border: 1px solid lightgray;
     border-radius: 10px;
@@ -39,21 +37,10 @@ legend {
     color: #4285db;
 }
 
-label {
-    font-size: 14px;
-    color: black;
-}
 
-input[type="text"],
-input[type="email"],
-input[type="tel"],
-input[type="date"],
-input[type="password"],
-select,
 textarea {
     width: 95%;
     padding: 8px;
-    margin: 5px;
     border: 1px solid lightgray;
     border-radius: 8px;
 }
@@ -63,7 +50,6 @@ button {
     color: white;
     font-size: 14px;
     padding: 10px;
-    margin: 5px;
     border: 1px solid #4285db;
     border-radius: 8px;
 }
